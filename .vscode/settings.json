@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        // Correct syntax highlighting for Unity's css/xml derived file extensions.
+        "*.tss": "css",
+        "*.uss": "css",
+        "*.uxml": "xml"
+    },
+    // Use Unix-style line endings.
+    "files.eol": "\n",
+    "files.exclude": {
+        // Hide Unity related files/directories.
+        "**/*.csproj": true,
+        "**/*.meta": true,
+        "**/*.sln": true,
+        "**/*.vsconfig": true,
+        "[Aa]nalyzers/": true,
+        "[Ll]ibrary/": true,
+        "[Ll]ogs/": true,
+        "[Oo]bj/": true,
+        "[Pp]ackages/": true,
+        "[Pp]roject[Ss]ettings/": true,
+        "[Tt]emp/": true,
+        "[Uu]ser[Ss]ettings/": true,
+        "UI[Ee]lements[Ss]chema/": true
+    },
+}

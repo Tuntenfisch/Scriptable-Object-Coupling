@@ -1,0 +1,12 @@
+{
+  "name": "com.tuntenfisch.scriptable-object-coupling",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Coupling",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Tuntenfisch",
+    "url": "https://github.com/Tuntenfisch/"
+  }
+}
